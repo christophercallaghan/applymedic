@@ -1,0 +1,756 @@
+nav {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    zoom: 90%;
+}
+
+#container_1_image {
+    padding: 0;
+    margin: 0;
+}
+
+#navbar {
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.navbar-brand {
+    font-weight: 150;
+}
+
+#navbarwidth {
+    padding-right: 0;
+}
+
+#navbrand {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand a {
+    padding-right: 0;
+}
+
+.navbar-brand {
+    padding-right: 0;
+    margin-right: 0;
+}
+
+img {
+    max-height: 500px;
+}
+
+#image_1 {
+    display: block;
+  margin-left: auto;
+  margin-right: 0;
+  width: auto;
+  border: none;
+  padding: 0rem;
+  border: 0;
+  height: 60vh;
+  min-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  border-radius: 0px;
+}
+
+#video_1 {
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+#title_1 {
+    text-align: center;
+    margin: auto;
+    padding-top:5rem;
+    padding-bottom: 5rem;
+    font-size: 3rem;
+    line-height: 3.5rem;
+    max-width: 900px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-weight: 150;
+}
+
+#text_1 {
+    text-align: center;
+    margin: auto;
+    padding-top:0rem;
+    padding-bottom:2.5rem;
+    font-size: 1.5rem;
+    text-align: justify;
+    width: 90%;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-weight: 150;
+    line-height: 2.3rem;
+
+}
+
+#text_2 {
+    text-align: center;
+    margin: auto;
+    padding-top:1rem;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+#container_1 {
+    padding-bottom: 1rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    max-width:100%;
+    height: auto;
+}
+
+#container_3 {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    max-width: 100%;
+}
+
+#reviews {
+    border-top: 60px solid white;
+    max-width: 100%;
+    background-color: #4d01a2;
+}
+
+#footer {
+    background-color: #4d01a2;
+    width: 100%;
+    margin: 0;
+}
+
+#footer_2 {
+    width: 100%;
+    padding-bottom: 0px;
+}
+
+.footer {
+    width: 100%;
+}
+
+#package_title {
+    align-items: center;
+}
+
+#package_title_1 {
+    text-align: center;
+    font-weight: 350;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    color: #004aad;
+}
+
+#review_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 300px;
+}
+
+#review_1_img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border: none;
+  padding: 0rem;
+  border: 0;
+  height: auto;
+  min-height: 100%;
+  object-fit: cover;
+  border-radius: 0px;
+}
+
+#review_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 300px;
+}
+
+#review_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 300px;
+}
+
+#video_frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+#form {
+    text-align: center;
+    /*background-image: url("img_14.jpg");
+    background-size:cover;*/
+    background-color: white;
+    width: 100%;
+    padding-top: 3rem;
+    Padding-bottom: 3rem;
+}
+
+#email_input {
+    padding: 0.8rem;
+    border: 0.5px solid black;
+}
+
+#email-box {
+    padding-bottom: 1rem;
+}
+
+#submit_button {
+    padding: 0.5rem;
+    color: black;
+    background-color: white;
+    border: 0.5px solid black;
+    font-weight: 150;
+}
+
+#submit_box {
+    padding-bottom: 1rem;
+}
+
+.revue-form-footer {
+    font-weight:150;
+    font-size: 0.7rem;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+}
+
+#newsletter-title {
+    font-weight: 150;
+    padding-bottom: 2rem;
+    font-size: 3rem;
+}
+
+#newsletter-main {
+    font-weight: 150;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-left: 9rem;
+    padding-right: 9rem;
+}
+
+#input_1 {
+    font-weight: 250;
+    padding-bottom: 2rem;
+    font-size: 1.2rem;
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+#input_1_3 {
+    font-weight: 250;
+    padding-bottom: 2rem;
+    font-size: 1.2rem;
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+}
+
+#input_1_2 {
+    font-weight: 250;
+    padding-bottom: 2rem;
+    font-size: 1.2rem;
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    height: 100px;
+}
+
+#input_text_1 {
+    font-size: 1.5rem;
+    font-weight: 150;
+}
+
+#input_text_2 {
+    font-size: 1.5rem;
+    font-weight: 150;
+}
+
+#button_1 {
+    font-size: 1.5rem;
+    font-weight: 150;
+    background-color: #4d01a2;
+    border: none;
+}
+
+#button_2 {
+    font-size: 1.5rem;
+    font-weight: 150;
+    background-color: #4d01a2;
+    border: none;
+}
+
+#input_2 {
+    padding-bottom: 2rem;
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+}
+
+#get_in_touch {
+    background-color: white;
+    padding-top: 3rem;
+    Padding-bottom: 4rem;
+    text-align: center;
+    width: 100%;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+#input_section {
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+}
+
+#copy {
+    color: black;
+}
+
+#contact-title {
+    font-weight: 150;
+    padding-top: 0rem;
+    padding-bottom: 1.5rem;
+    font-size: 3rem;
+}
+
+.link-text {
+    color: black;
+}
+
+#contact-blurb {
+    font-weight: 150;
+    padding-bottom: 0rem;
+    font-size: 1.6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: justify;
+}
+
+#scholarship_name {
+    font-size: 1.4rem;
+    font-weight: 150;
+}
+
+#scholarship_email {
+    font-size: 1.4rem;
+    font-weight: 150;
+}
+
+#scholarship_text {
+    font-size: 1.4rem;
+    font-weight: 150;
+    resize: none;
+}
+
+#img_10 {
+    padding-top: 1.5rem;
+    width: 100%;
+}
+
+#contact-link {
+    font-weight: 250;
+    color: black;
+}
+
+#weight {
+    font-weight: 250;
+    font-size: 1.1rem;
+    padding-left: 1rem;
+    text-decoration: none;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: white;
+}
+
+#navbrand {
+    font-weight: 250;
+    font-size: 1.1rem;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+}
+
+#navbarwidth {
+    padding-left: 0rem;
+}
+
+#package_row {
+    max-width: 100%;
+    align-items: ;
+}
+
+
+@media (max-width: 1199px) {
+
+    #title_1 {
+        padding-top: 2.5rem;
+    }
+
+    #text_1 {
+        padding-bottom: 3rem;
+    }
+
+    #reviews {
+        border-top: 0px solid white;
+        max-width: 100%;
+        background-color: #4d01a2;
+    }
+
+    #get_in_touch {
+        background-color: white;
+        padding-top: 3rem;
+        Padding-bottom: 4rem;
+        text-align: center;
+        width: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    #input_section {
+        padding-right: 0rem;
+        padding-top: 1rem;
+        padding-bottom: 0rem;
+    }
+
+    #contact-title {
+        font-weight: 150;
+        padding-top: 0rem;
+        padding-bottom: 1.5rem;
+        font-size: 2.5rem;
+    }
+    
+    .link-text {
+        color: black;
+    }
+    
+    #contact-blurb {
+        font-weight: 150;
+        padding-bottom: 2rem;
+        font-size: 1.6rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        text-align: justify;
+        resize: none;
+    }
+    
+    #scholarship_name {
+        font-size: 1.4rem;
+        font-weight: 150;
+        width: 99%;
+    }
+    
+    #scholarship_email {
+        font-size: 1.4rem;
+        font-weight: 150;
+        width: 99%;
+    }
+    
+    #scholarship_text {
+        font-size: 1.4rem;
+        font-weight: 150;
+        width: 99%;
+    }
+
+}
+
+
+@media (max-width: 900px) {
+
+    #title_1 {
+        text-align: center;
+        margin: auto;
+        padding-top:3rem;
+        padding-bottom: 3rem;
+        font-size: 3rem;
+        line-height: 3.5rem;
+        max-width: 900px;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        font-weight: 150;
+    }
+    
+    #text_1 {
+        text-align: center;
+        margin: auto;
+        padding-top:0rem;
+        padding-bottom:2.5rem;
+        font-size: 1.5rem;
+        text-align: justify;
+        width: 90%;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        font-weight: 150;
+        line-height: 3rem;
+    
+    }
+
+    #reviews {
+        border-top: 0px;
+        max-width: 100%;
+        background-color: #4d01a2;
+    }
+
+    #newsletter-title {
+        font-weight: 150;
+        padding-bottom: 2rem;
+        font-size: 2rem;
+    }
+
+
+    #newsletter-main {
+        font-weight: 150;
+        padding-bottom: 2rem;
+        font-size: 1.5rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    #input_text_1 {
+        font-size: 1.3rem;
+        font-weight: 150;
+    }
+    
+    #input_text_2 {
+        font-size: 1.3rem;
+        font-weight: 150;
+    }
+
+    #button_1 {
+        font-size: 1.3rem;
+        font-weight: 150;
+        background-color: #4d01a2;
+        border: none;
+    }
+
+    #get_in_touch {
+        background-color: white;
+        padding-top: 3rem;
+        Padding-bottom: 4rem;
+        text-align: center;
+        width: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    #input_section {
+        padding-right: 0rem;
+        padding-top: 1rem;
+        padding-bottom: 0rem;
+    }
+
+    #contact-title {
+        font-weight: 150;
+        padding-top: 0rem;
+        padding-bottom: 1.5rem;
+        font-size: 2rem;
+    }
+    
+    .link-text {
+        color: black;
+    }
+    
+    #contact-blurb {
+        font-weight: 150;
+        padding-bottom: 2rem;
+        font-size: 1.5rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        text-align: justify;
+        resize: none;
+    }
+    
+    #scholarship_name {
+        font-size: 1.3rem;
+        font-weight: 150;
+        width: 97%;
+    }
+    
+    #scholarship_email {
+        font-size: 1.3rem;
+        font-weight: 150;
+        width: 97%;
+    }
+    
+    #scholarship_text {
+        font-size: 1.3rem;
+        font-weight: 150;
+        width: 97%;
+    }
+
+    #button_2 {
+        font-size: 1.3rem;
+    }
+
+}
+
+@media (max-width: 750px) {
+
+    #title_1 {
+        text-align: center;
+        margin: auto;
+        padding-top:2rem;
+        padding-bottom: 1rem;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        max-width: 900px;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        font-weight: 250;
+    }
+    
+    #text_1 {
+        text-align: center;
+        margin: auto;
+        padding-top:0rem;
+        padding-bottom:2.5rem;
+        font-size: 1.3rem;
+        text-align: justify;
+        width: 90%;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        font-weight: 150;
+        line-height: 1.8rem;
+    
+    }
+
+    #review_1_img {
+        display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: auto;
+      border: none;
+      padding: 0rem;
+      border: 0;
+      height: auto;
+      min-height: 95%;
+      object-fit: cover;
+      border-radius: 0px;
+    }
+
+    #newsletter-title {
+        font-weight: 250;
+        padding-bottom: 1rem;
+        font-size: 1.3rem;
+    }
+
+    #newsletter-main {
+        font-weight: 150;
+        padding-bottom: 1rem;
+        font-size: 1.3rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    #input_text_1 {
+        font-size: 1.2rem;
+        font-weight: 150;
+    }
+    
+    #input_text_2 {
+        font-size: 1.2rem;
+        font-weight: 150;
+    }
+
+    #button_1 {
+        font-size: 1.3rem;
+        font-weight: 150;
+        background-color: #4d01a2;
+        border: none;
+    }
+
+
+
+
+    #get_in_touch {
+        background-color: white;
+        padding-top: 3rem;
+        Padding-bottom: 4rem;
+        text-align: center;
+        width: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    #input_section {
+        padding-right: 0rem;
+        padding-top: 1rem;
+        padding-bottom: 0rem;
+    }
+
+    #contact-title {
+        font-weight: 250;
+        padding-top: 0rem;
+        padding-bottom: 1.5rem;
+        font-size: 1.3rem;
+    }
+    
+    .link-text {
+        color: black;
+    }
+    
+    #contact-blurb {
+        font-weight: 150;
+        padding-bottom: 2rem;
+        font-size: 1.3rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        text-align: justify;
+        resize: none;
+    }
+    
+    #scholarship_name {
+        font-size: 1.2rem;
+        font-weight: 150;
+        width: 97%;
+    }
+    
+    #scholarship_email {
+        font-size: 1.2rem;
+        font-weight: 150;
+        width: 97%;
+    }
+    
+    #scholarship_text {
+        font-size: 1.2rem;
+        font-weight: 150;
+        width: 97%;
+    }
+
+    #button_2 {
+        font-size: 1.3rem;
+    }
+
+
+}
